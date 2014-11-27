@@ -1,0 +1,15 @@
+git clone https://github.com/wanghaibo/hexoblog.git
+
+cd hexoblog
+
+git clone https://github.com/yuche/hexo-theme-kael.git theme/kael
+
+hexo new title
+
+hexo generate
+
+hexo generate
+
+git add --all
+
+git commit -a -m''
