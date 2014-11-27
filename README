@@ -13,3 +13,5 @@ hexo generate
 git add --all
 
 git commit -a -m''
+
+git push
